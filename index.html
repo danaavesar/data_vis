@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html style="width: 100%; height: 100%">
+  <head>
+    <meta charset="UTF-8">
+    <title>map</title>
+
+    <!-- p5 -->
+    <script src="libraries/p5.js" type="text/javascript"></script>
+
+    <!-- jquery -->
+      <link href="http://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet">
+      <script src="http://code.jquery.com/jquery-2.0.2.js"></script>
+      <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <script src="libraries/jquery.csv-0.71.js" type="text/javascript"></script>
+
+
+    <!-- leaflet -->
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+	
+    <!-- geocoder links -->
+    <script src="libraries/Control.Geocoder.js"></script>
+    <link rel="stylesheet" href="libraries/Control.Geocoder.css" />
+	
+    <!-- my scripts -->
+    <script src="leaflet.js" type="text/javascript"></script> 
+    <script src="sketch.js" type="text/javascript"></script> 
+
+    <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+
+    <style>
+      #resizable { width: 150px; height: 150px; padding: 0.5em; background: red;
+       }
+      #map{
+        height: 100%;
+      }
+      #title{
+        margin: auto;
+        display: block;
+      }
+      body {
+        width: 100%;
+        height: 80%;
+        font-family: 'Libre Baskerville', serif;
+      }
+      .img {
+        width: 100px;
+        display: block;
+        margin: auto;
+      }
+      .leaflet-popup-content{
+        font-family: 'Libre Baskerville', serif;
+      }
+      .ui-slider-horizontal .ui-state-default {
+        background: url("handle.png") no-repeat scroll 50% 50%;
+        border: none;
+        height: 2em;
+        width:1.5em;
+        top: -.6em;
+      }
+      .ui-state-hover .ui-state-focus{
+        border: none;
+      }
+      .ui-slider-vertical .ui-state-default{
+        background: url("handle2.png") no-repeat ;
+        border: none;
+        background-size: 30px;
+        background-position: center;
+        left: -.4em;
+      }
+      .ui-state :focus {
+        outline: none;
+        border: none;
+      
+      }
+      .label {
+        font-size: 19px;
+        font-family: Futura-Medium-Condensed, "Futura Medium Condensed", 'Open Sans Condensed' sans-serif;
+        float: left;
+        margin-right: 15px;
+        color: #fdc67c;
+
+      }
+      #ticks{
+        width: 90%;
+        position: relative;
+        margin-left: 16px;
+        text-align: center;
+        top: 20px;
+
+      }
+      #floor_icon{
+        height: 130px;
+        position: absolute;
+      }
+      #slider{
+        height: .3em;
+        border: none;
+        background: #fff;
+        float: left;
+        top: 26px;
+        width: 90%
+      }
+      #slider2{
+        height: 100px;
+        background: #fff;
+        width: .3em;
+        position: absolute;
+        top: 3px;
+        border: none;
+      }
+      #floor_selection_container{
+        float: left;
+        position: relative;
+        margin-top: 50px;
+        margin-left: 20px;
+      }
+      #filter{
+        float: left;
+        clear: left;
+        margin-top: 50px;
+        color: #b15538;
+      }
+     #floors{
+      margin-top: 50px;
+      margin-left: 100px;
+      float: left;
+      clear: left;
+     }
+     #use{
+      margin-top: 50px;
+      margin-left: 100px;
+      margin-right: 20px;
+     }
+     .icon{
+      width: 50px;
+      float: left;
+      margin-top: 90px;
+      margin-right: 10px;
+      cursor: pointer;
+     }
+
+
+/*      #resizable {
+        position: fixed;
+        width: 100%;
+        width: 300px;
+        height: 100px;
+        bottom: 0px; 
+        z-index: 100;
+        background: #999;
+      }*/
+    </style>
+  </head>
+
+  <body >
+  <img id="title" src="skyscraper_title.png"/>
+ 
+   <div id="map" style="width: 100%; height: 100%"></div>
+   
+   <div id="canvas" style="width:100%; height: 500px; background: #7894a3;">
+   <div id="container" style="margin: auto; display: block; padding-left: 50px; padding-right: 50px; padding-top:10px">
+    <p id="amount"> </p>
+    <h2 id="date" class="label">Date Built: </h2>
+    <div id="slider"></div>
+    <div id="ticks"></div>
+    <h2 id="floors" class="label"> Floors: </h2>
+    <div id="floor_selection_container"> 
+      <object id="floor_icon" type="image/svg+xml" data="floors_icon.svg" ></object>
+      <div id="slider2" ></div>
+      <div id="max"></div>
+    </div>
+     <h2 id="use" class="label"> Use: </h2>
+     <img class="icon" src="apartment_icon.svg"/>
+     <img class="icon" src="hotel_icon.svg"/>
+     <img class="icon" src="office_icon.svg"/>
+
+
+
+
+   </div>
+
+   </div>
+  </body>
+</html>

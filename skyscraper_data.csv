@@ -1,0 +1,255 @@
+NY #,Index,Address,Architect,Builder,Building Name,City,Exterior Walls,Floor System,Height,Horizontal Framing,Use,Year,Floors,Page #
+2,285,79 Laight Street,,,United States Sugar Building,New York,,,90,Wood Joist,Warehouse,1853,10,218
+3,2,"154 Printing House Square, Nassau Street and Spruce Street",Richard Morris Hunt,Peter T. O'Brien,Tribune I,New York,Brick bearing walls,tile arches,230,Wrought iron beams ,Office,1874,10,219
+4,4,"195 Broadway, corner of Dey Street",George Post,Smith & Rogers,Western Union I,New York,Brick and stone,brick jack arches,230,"15"" wrought-iron girders, 10"" beams, 2-story mansard framed with wrought-iron rafters on king-post trusses",Office,1875,10,220
+5,104,202-208 Broadway,Charles Mengleson / George Hathorne / Thomas Stent,,Evening Post Building,New York,,brick arch floors,140,Wrought iron beams,Office,1875,10,221
+6,738,64th Street between Avenue A and the East River,Lemle & Co.,John Weber,Neidlinger & Schmidt Malt House,New York,Brick,,93,wood,Factory,1875,10,223
+7,105,"140 Nassau Street, corner of Beekman Street",Silliman & Farnsworth,Post & McCord,Morse Building,New York,,Hoyt Patent floor – corrugated iron arches with concrete fill,165,Wrought iron beams,Office,1880,10,224
+8,342,2-4 Wall Street,,,United Bank Building,New York,,Fireproof,110,Iron or steel,Office,1880,10,225
+9,621,"165-169 Duane Street, 47-53 Hudson Street",Stephen Hatch,,Schepp Building,New York,,,120,,Loft,1881,10,226
+10,108,"1 Broadway, corner Battery Place",Edward Kendall,,Washington Building,New York,"Brick, up to 52 inches thick",Flat tile arches,152,Wrought iron beams,Office,1882,11,228
+11,361,126-130 West 59th Street,"Hubert, Pirsson & Co",,The Hawthorne,New York,Brick,,100,,Apartment,1882,10,229
+12,99,150-180 West 59th Street and 145-175 West 58th Street,"Hubert, Pirsson & Hoddick",Post & McCord,Central Park Apartments / Spanish Flats,New York,,“fireproof”,142.5,“fireproof”,Apartment,1883,10,230
+13,106,"35 Wall, 11-21 Broad, 35 Exchange Place",George Post,,Mills Building,New York,,Fireproof,156,Wrought iron beams,Office,1883,10,231
+14,107,3-9 Beekman Street,Silliman & Farnsworth,Post & McCord,Temple Court,New York,,,138,,Office,1883,10,232
+15,109,121 Madison Avenue,"Hubert, Pirsson & Co and Ernest Flagg",,Hubert Home Club ,New York,Brick,,135.25,,Apartment,1883,11,233
+16,279,34 Gramercy Park East,George Da Cuhna,,The Gramercy,New York,,,120,Wood Joist,Apartment,1883,10,234
+17,357,"14-20 Broadway, 5-7 Beaver Street",W. Pell Anderson,Post & McCord,Welles Building,New York,Granite and brick,Fireproof,140,Iron or steel,Office,1883,10,235
+18,364,"1722 Broadway, NE corner 55th Street",Thom & Wilson,,The Sonoma,New York,,,110,,Apartment,1883,10,236
+19,612,"500 Madison Avenue, NW corner 52nd Street",Carl Pfeiffer,,Berkshire Apartments,New York,Brick,,122.6,wood,Apartment,1883,10,237
+20,5,2 Broadway,George Post,,Produce Exchange,New York,Brick,Fireproof,123,"wrought-iron girders, wrought iron beams, trusses, etc.",Office,1884,10,241
+21,100,1 West 72nd Street,Henry Hardenburgh,Post & McCord,The Dakota,New York,Sandstone and brick,"Flat tile arch, from observation",163,"Bearing walls, wrought iron floors",Apartment,1884,10,242
+22,103,243-249 Fifth Avenue SE corner 28th Street,"Charles W. Clinton designer, Ernest Flagg developer",Post & McCord,Knickerbocker Apartments,New York,Brick,,140,,Apartment,1884,11,243
+23,616,"640 Madison Ave, 21 East 59th Street",Charles Romeyn & Co.,,Hoffman Arms,New York,,terra cotta,120,iron,Apartment,1884,10,244
+24,22,222 West 23rd Street,"Hubert, Pirsson & Co","J. B. & J. M. Cornell, Post & McCord",Chelsea Hotel,New York,Brick,,140,Iron beams,Hotel,1885,12,250
+25,101,"205 West 57th Street, 902 Seventh Avenue",James E. Ware,"Thomas Osborne, possibly",The Osborne,New York,,,182,,Apartment,1886,11,253
+26,110,"38 Park Row, corner Beekman Street",Norris G. Starkweather,Jackson Iron Works,Potter Building,New York,Brick and terra cotta,Tile arch,165,Wrought iron beams,Office,1886,11,254
+27,345,24-28 Broadway,E. L. Roberts & J. M. Farnsworth,Post & McCord,Standard Oil Building I,New York,Granite,Fireproof,145,Steel ,Office,1886,10,255
+28,111,41-45 Broadway,Youngs & Cable ,,Aldrich Court,New York,,“fireproof”,120,Wrought iron beams,Office,1887,10,258
+29,18,41 Park Row,George Post,David H. King,New York Times II,New York,Stone and brick,Flat tile arches,160,floors are wrought iron with flat tile arches,Office,1888,13,262
+30,617,49-55 West 27th Street,Augustus Hatfield,Hugh Getty,Gerlach Hotel / Radio Wave Building,New York,Stone and brick,,125,"NB says wood, CoO says fireproof, took 6 years to build, probably changed in middle",Apartment,1888,10,263
+31,1,50 Broadway,Bradford Lee Gilbert,Jackson Iron Works,Tower Building,New York,"Brick, bearing above 8th floor.",Flat tile arches,145,W.I. Girders,Office,1889,11,274
+32,115,121-127 Greenwich and 20-22 Thames Streets,Cyrus Eidlitz,Marc Eidlitz & Son (general); Post & McCord (iron and steel),Western Electric,New York,"Brick and terra cotta, Greenwich Street facade partly supported",“thoroughly fireproof”,120,,Office,1889,10,275
+33,380,"15-21 Wall Street, corner of Broad Street",Charles W. Clinton,Post & McCord,Wilks Building I,New York,Limestone,“fireproof”,120,,Office,1889,10,276
+34,381,"139 Liberty Street, between Washington Street and West Street",Peabody & Stearns,,Central Railroad of New Jersey,New York,Brick and stone,,132.2,,Office,1889,10,277
+35,21,"53-63 Park Row, corner Frankfort Street",George Post, ,Pulitzer Building / World Building,New York,"Brick, stone, terra cotta",tile arch floors,188,steel floor beams and girders,Office,1890,20,292
+36,25,25 Pine Street,J. C. Cady & Co.,Marc Eidlitz,London and Lancashire,New York,Brick and stone,  ,118,"Steel beams, wrought iron girders",Office,1890,10,293
+37,117,"78-82 Broadway, 3-7 New Street",George Post,,Union Trust Company Building,New York,Stone and brick,,172,,Office,1890,11,294
+38,119,"92-96 Bleecker Street, 199-205 Mercer St.",Alfred Zucker,Jackson Iron Works,Theodore Cohnfeld Building,New York,Brick and terra cotta,concrete arches,144.5,Steel ,Warehouse,1890,10,295
+39,120,549-553 Broadway; 120-124 Mercer,Alfred Zucker,Jackson Iron Works,Rouss Building I,New York,"Cast iron infill, masonry piers",“fireproof”,130,,Store,1890,10,296
+40,214,"16-22 William Street, NE corner Beaver Street",Charles W. Clinton,,Farmers' Loan and Trust Company of New York,New York,,,130,,Office,1890,10,297
+41,316,"119-121 Nassau Street, corner Theater Alley",James Farnsworth,Post & McCord,Temple Court Annex,New York,,Tile arch,120,Iron beams,Office,1890,10,298
+42,332,"42-44 Broad Street, 38-40 New Street",Carriere & Hastings,,United Edison Buildings ,New York,,,130,,Office,1890,10,299
+43,382,"55-61 Hudson Street, SW corner Jay Street",Edwards & Kendall,McCabe Brothers,"American Express / Austin, Nichols & Co.",New York,Brick and terra cotta,[brick or segmental tile arch],122,steel,Warehouse,1890,10,300
+44,112,"29 Broadway, NW corner Morris Street",Youngs & Cable,Union Iron Works (steel and iron),Columbia Building,New York,12” walls for full height,"tile arch floors, ",156.33,"w.i. Girders and beams, ",Office,1891,12,311
+45,232,"88-90 Gold Street, NE corner Ferry Street",W. B. Tubby,,Healy Building / Hide and Leather Bank Building,New York,Brick,wood joist,140,,Warehouse,1891,10,312
+46,334,8-12 Dey Street,Henry Hardenburgh,James B. Smith,Western Union II,New York,Limestone and brick,,167.6,,Office,1891,11,313
+47,415,45-49 Cedar Street,Charles W. Clinton,,Stokes Building,New York,Brick,,129.67,Iron,Office,1891,10,314
+48,17,"31 East 17th St (Union Sq N), 36 E 18th St",William H. Birkmire,,Jackson Building,New York,Brick and stone,,155.5,,Office,1892,11,330
+49,24,"767 5th Avenue, SE corner 59th Street",Ralph Townsend,,Hotel Savoy I,New York,Brick and limestone,,145,Steel ,Hotel,1892,11,331
+50,118,"874 Broadway, corner 18th Street",R. H. Robertson,McCabe Brothers,McIntyre Building,New York,,wood joist!,149.5,"""steel-framed""",Office,1892,10,332
+51,162,203 Broadway and 164-168 Fulton Street,Carriere & Hastings,Charles Wills,Mail and Express Building,New York,Limestone,“fireproof”,211,,Office,1892,16,333
+52,221,"274-280 5th Ave, corner 30th Street",Harding & Gooch,C. Graham's Sons,Holland House,New York,"Limestone, self-bearing except supported at light court.",,115,,Hotel,1892,10,334
+53,230,"26 Exchange Place, corner of William Street",L. C. Holden,,"Delaware, Lackawanna & Western Railroad Building",New York,Brick and limestone,,140,,Office,1892,10,335
+54,231,1 Madison Avenue,Napoleon LeBrun & Sons,"Jeremiah Smith (general), Jackson Iron Works (steel)",Metropolitan Life Insurance,New York,Marble veneer and brick,tile arch,120,,Office,1892,10,336
+55,233,93 Nassau Street corner of Fulton Street,,,Bennett Building,New York,Bearing cast iron exterior; bearing brick interior walls,,110,,Office,1892,10,337
+56,270,117 West 58th Street,"Hubert, Pirsson & Hoddick",,Hotel Sevilla / Central Park Mews,New York,Brick,,130,,Hotel,1892,12,338
+57,294,"25-33 Church Street, between Cortland and Dey Streets",George Post,,Havemeyer Building I,New York,,100 psf dead and 100 psf live,192,Steel ,Office,1892,14,339
+58,11,64-66 Broadway,Francis Kimball and George Thompson,,Manhattan Life Insurance,New York,Brick and stone,{Tile arch},348,{Steel beams},Office,1893,21,360
+59,23,"769 5th Ave, NE corner 59th Street",William Hume,Isaac Hopper,Hotel Netherland,New York,Brick and stone,,234,“iron” according to Eng Record,Hotel,1893,17,361
+60,160,251-255 Broadway,Harding & Gooch,W&F Conover (general)l J. B. & J. M. Cornell (steel and iron),Postal Telegraph Cable Company,New York,"Limestone and brick, supported above 6th floor",Terra cotta,166,Steel beams,Office,1893,12,362
+61,161,256 Broadway,Napoleon LeBrun & Sons,,Home Life Insurance,New York,Tuckahoe marble; street facade is self-supporting,,260,Steel ,Office,1893,16,363
+62,163,33 Union Square West,"John Edelmann, designer; Alfred Zucker architect of record",,Decker Building,New York,,tile arch floors,150,"one bay, columns in side walls, steel built-up girders at ~15' o.c. running N-S; filler beams E-W, ",Office,1893,11,364
+63,179,336-340 5th Avenue,Henry Hardenburgh,,Waldorf Hotel,New York,,Flat tile arches,180,,Hotel,1893,12,365
+64,213,"32-34 Nassau Street,  28-36 Liberty Street",Charles W. Clinton,Joseph Thompson,Mutual Life Building,New York,,,221,,Office,1893,15,366
+65,219,123-129 W 44th Street,George Keister,,The Gerard / Langwell Hotel / Hotel 123,New York,"Brick, stone, and terra cotta",“fireproof”,152,,Apartment,1893,13,367
+66,271,"409-415 Pearl Street, SW corner Rose Street",William Schickel & Co.,Marc Eidlitz,Scott & Bowne Building,New York,,,134,,Warehouse,1893,10,368
+67,313,39-41 Cortlandt Street,Oswald Wirz,James G. Wallace,J. Monroe Taylor Building,New York,Brick and sandstone,,157,,Office,1893,12,369
+68,315,27-29 Pine Street,De Lemos & Cordes,,"Kuhn, Loeb Bank I",New York,Stone and brick,,180.25,,Office,1893,13,370
+69,317,44-48 Cedar Street,Charles W. Clinton,"D. H. King (general), Post & McCord (steel)",Continental Fire Insurance,New York,"Stoen, brick, and terra cotta",,180,,Office,1893,13,371
+70,321,"981 Madison Avenue, NE corner 76th Street",Horgan & Slattery,Horgan & Slattery,The Carrolton,New York,Brick and stone,,125,,Hotel,1893,10,372
+71,322,"64-68 Broad Street, 31 Beaver Street",Youngs & Cable,,Morris Building,New York,Brick,,127.5,,Office,1893,10,373
+72,323,"46 Pine Street, 55 William Street","Jardine, Kent  & Jardine",,Manice Building,New York,,,135,,Office,1893,11,374
+73,326,"219 Central Park West, (SW corner 82nd Street",Theodore B. Thomson,Jackson Iron Works,Beresford Hotel II,New York,Brick and stone,,120,,Hotel,1893,10,375
+74,328,"2 Duane Street, SW corner Rose Street",William H. Russell,McCabe Brothers,Rhinelander Building,New York,,,148.8,,Factory,1893,10,376
+75,350,220 William Street (facing Brooklyn Bridge),W. Wheeler Smith,,Metropolitan Realty Building,New York,Brick and iron,,194,,Office,1893,14,377
+76,351,34-34½ Pine Street,A. B. Jennings,,Hanover Fire Insurance,New York,,,113,,Office,1893,10,378
+77,620,"87 Nassau Street, 130-136 Fulton Street",De Lemos & Cordes,,Fulton Building,New York, ,,116,,Office,1893,10,379
+78,688,15-19 Beekman Street,McKim Mead & White,,Vanderbilt Building II,New York,Brick and terra cotta,flat terra cotta tile arch,172,steel,Office,1893,15,380
+79,157,"13 William Street, NW corner Beaver Street",R. H. Robertson,John Downey,Corn Exchange Bank Building,New York,Granite and sandstone,,150,Steel ,Office,1894,11,392
+80,212,"305 Broadway, NW corner Duane Street",William H. Hume,Richard Deeves,Mutual Reserve Fund Life Association / Langdon Building,New York,Granite and limestine,flat tile arch,184,steel,Office,1894,14,393
+81,216,"44-1/2 and 46 Maiden Lane, 37-39 Liberty Street",Charles Haight,"David King, Jr.",Lawyers' Title Insurance Company,New York,Brick and stone,,200,Steel ,Office,1894,13,394
+82,250,"56-58 Pine Street, 26-28 Cedar Street",Oscar Wirz,,Wallace Building,New York,,,155,,Office,1894,12,395
+83,269,"115 Central Park West, corner (71st Street","Jacob Rothschild, assisted by Reeves and Livingston","Milliken Brothers (general), Jackson Iron Works (steel)",Hotel Majestic,New York,,  ,165,“fireproof”,Apartment,1894,12,396
+84,292,14 Maiden Lane,George A. Schellenger,Boehm & Coon,Diamond Exchange / Hays Building,New York,,Tile arch,120,,Office,1894,11,397
+85,299,161-169 West 56th Street,William Tuthill / Henry J. Hardenbergh,Jackson Iron Works,Carnegie Hall II,New York,Brick and terra cotta,Segmental tile arch,200,Steel ,Public,1894,16,398
+86,320,"68 Nassau Street, 34 John Street",Charles W. Clinton,"Post & McCord, McCabe Brothers",Sheldon Building,New York,Brick and terra cotta,,150,,Office,1894,12,399
+87,341,100 Washington Square East between Washington Place and Waverly Place,Alfred Zucker,,NYU Main Building,New York,"Brick, stone and terra cotta",,145,,Public,1894,10,400
+88,348,615 Fifth Avenue,,,Buckingham Hotel II,New York,,,130,,Hotel,1894,13,401
+89,355,"627-629 Broadway, 196-198 Mercer",Louis Korn,"John H. Parker (general), Charles Brown (steel and iron)",Richter Building,New York,"Stone, brick, and terra cotta",,148.6,Steel floor beams,Warehouse,1894,10,402
+90,356,119-121 West 23rd Street and 112-114 West 24th Street,William Schickel & Co.,,Sachs Brothers,New York,"Stone, brick, and terra cotta",,140,,Store,1894,10,403
+91,386,"24th Street, S side, 150' E of Madison Avenue",Napoleon LeBrun and Sons,,Metropolitan Life Annex,New York,,,150,,Office,1894,12,404
+92,387,"54 Maiden Lane, 29-31 Liberty Street",Clinton & Russell,,Fahys Building,New York,brick with granite and terra cotta trim,,150,steel,Office,1894,13,405
+93,388,715-725 Broadway between Washington Place and Waverly Place,Robert Maynicke,,New York Commercial Buildings,New York,Brick,,150,Steel ,Office,1894,12,406
+94,395,704-706 Broadway,De Lemos & Cordes,McCabe Brothers,Boskowitz Building,New York,"Brick, stone and terra cotta",,149.5,,Store,1894,10,407
+95,623,33 West 12th Street,John B. Snook & Sons,,The Ardea I ,New York,Brick and stone,,125,,Apartment,1894,10,408
+96,729,"9 Stone Street, 14-16 Marketfield Street",Henry Gilvarry ,,Produce Exchange II,New York,,,123,steel,Office,1894,10,409
+97,3,"100-106 Broadway, 1-1½  Pine Street",Bruce Price,Charles Wills,American Surety I,New York,"Granite and brick, east and south walls self-bear for 1st 8 floors",{Tile arch and brick arch},289.25,Steel beams,Office,1895,20,429
+98,12,Elm Street between Leonard Street and Catherine Lane,"Stephen D. Hatch, completed by McKim, Mead & White",Post & McCord (steel),New York Life I,New York,Tuckahoe marble and brick,,192,{steel framed},Office,1895,12,430
+99,20,"144-152 Nassau Street, 6 Spruce Street",R. H. Robertson,"Louis Weber Construction Co. (general), Atlas Iron Constructon Co (steel)",American Tract Society,New York,"Brick, stone, and terra cotta",,288,,Office,1895,20,431
+100,165,"66 Maiden Lane, corner William Street",Henry Hardenburgh,,John Wolfe Building,New York,Brick,,150,"""steel frame""",Office,1895,12.5,432
+101,217,"154-158 5th Avenue, NW corner 20th Street",Rowe & Baker,,The Presbyterian Building,New York,"Brick and stone, self supporting except front facade above 4th floor",,178,steel,Office,1895,12.5,433
+102,218,"109-111 5th Avenue, NE corner 18th Street",William Schickel & Co.,Marc Eidlitz & Son,Arnold Constable Building,New York,Brick and stone,,208,,Store,1895,14,434
+103,277,710 Broadway,Cleverdon & Putzel,,,New York,Brick and iron,Brick arches,130,,Warehouse,1895,10,435
+104,293,"69 Nassau Street, 28 John Street",Clinton & Russell,"Robinson & Wallace (general), Jackson Iron Works (steel)",Wilks Building II / Prescott Building,New York,,,128,Steel ,Office,1895,10,436
+105,314,271 Broadway (SW corner Chambers),J. C. Cady & Co.,Marc Eidlitz & Son and Mackey & Co.; Post & McCord,National Shoe and Leather Bank,New York,Brick and sandstone,,170,,Office,1895,12,437
+106,349,"106-108 Fulton Street, 14 Dutch Street",J. M. Farnsworth,C.l. Goetchius,Downing Building,New York,Brick and iron ,,165.7,,Office,1895,14,438
+107,352,97-99 Cedar Street,Cyrus Eidlitz,Robinson & Wallace,Fidelity and Casualty Company,New York,,,144,,Office,1895,11,439
+108,393,733-735 Broadway,Buchman & Deisler,,,New York,Brick,,137,,Office,1895,10,440
+109,461,"232-238 William Street, SE corner Duane Street",Clinton & Russell,,Rhinelander Building II,New York,Brick,,167,steel,Loft,1895,12,441
+110,741,5th Avenue south of 59th Street,Ralph Townsend,,Hotel Savoy II,New York,Brick and stone,,162,Steel ,Hotel,1895,13,442
+111,19,"5-11 Broadway, 5-11 Greenwich Street",W. and G. Audsley  with H. M. Hunt,"Standard Structural Co. (general), Jackson Iron Works (steel)",Bowling Green Building,New York,Brick,,230.5,Steel skeleton,Office,1896,17,459
+112,166,"25-29 William Street, 36- 40 Exchange Place",John Townsend Williams,John Townsend Williams,Lord's Court,New York,Brick,,200,,Office,1896,15,460
+113,168,"33 Nassau Street, SW corner Liberty Street",Lamb & Rich,,German-American Building / Provident Life Building / Syndicate Building ,New York,,,208,,Office,1896,15,461
+114,181,"316-332  Madison Avenue, NE corner 42nd Street",Henry Hardenburgh,Marc Eidlitz & Son,Hotel Manhattan I,New York,Brick and stone,steel,183,"""fireproof""",Hotel,1896,14,462
+115,209,90 West Broadway ,Harding & Gooch,,Gerken Building,New York,Brick and terra cotta,Flat tile arch,142,Steel beams,Office,1896,12,463
+116,220,"1119 Broadway, SW corner 25th Street",,,Hoffman House II,New York,,,110,,Hotel,1896,10,464
+117,249,1242 Broadway,"McKim, Mead & White",,Hotel Imperial II,New York,,,176,,Hotel,1896,16,465
+118,255,"277 West 10th Street, 667-675 Washington Street",Martin V.B. Ferdon,Berlin Iron Bridge Co. (steel),Everard Storage Warehouse / Shephard Warehouse,New York,brick and granite,"""fireproof""",150,,Warehouse,1896,12,466
+119,267,"487 Broadway, 443-449 Broome Street, 60 Mercer Street",Buchman & Deisler,,Silk Exchange ,New York,Brick with terra cotta trim,,154,steel,Office,1896,12,467
+120,273,260 West Broadway,William. B. Tubby,,American Thread Building / Wool Exchange,New York,Brick,,138,,Office,1896,11,468
+121,389,"707-709 Broadway, 270-274 Mercer Street",John T. Williams,John T. Williams,,New York,Brick,,146,steel,Loft,1896,10,469
+122,390,"143 Central Park West, NW Corner 74th Street",Thom & Wilson,,San Remo Hotel Annex ,New York,Brick,,128,,Hotel,1896,10,470
+123,392,37-39 Maiden Lane,Louis Korn,,Lorsch Building,New York,Brick and stone,,150,,Office,1896,11,471
+124,397,538-540 Washington Street,Thomas Jackson,Hugh Getty,James Pyle & Sons II,New York,"Granite base, brick above",,136,Iron,Warehouse,1896,10,472
+125,400,7 Pine Street,Herman Kreitler,,Kennelly Building,New York,Brick and stone,,120,steel beams,Office,1896,10,473
+126,403,"1179-1181 Broadway, SW corner 28th Street",Alfred Zucker,,Baudouine Building,New York,"Brick, stone, iron, terra cotta",,150,,Office,1896,10,474
+127,406,"24-30 East 17th Street and 41 Union Square West, SW corner Broadway",Youngs & Bergerson,Robinson & Wallace (general),Hartford Building,New York,,,129,Steel ,Office,1896,10,475
+128,408,13-15 West 28th Street,Barney & Chapman,McCabe Brothers,Revillon Building,New York,Brick and terra cotta,,144.75,,Office,1896,10,476
+129,446,532-534 Broadway,Ralph Townsend,,,New York,Brick and limestone,,139.3,,Loft,1896,10,477
+130,450,714 Broadway,Buchman & Dreisler,,,New York,Brick and stone,flat terra cotta arches,150,steel,Loft,1896,11,478
+131,454,132-138 King Street,Thomas Jackson,Hugh Getty,James Pyle & Sons III,New York,Brick and stone,,138,steel,Warehouse,1896,10,479
+132,455,"120-122 Liberty Street, 123-125 Cedar Street",Oswald Wirz,James Wallace,Beard Building / Foundation Building,New York,Brick and brownstone,,149.5,Steel ,Office,1896,12,480
+133,472,3-7 West 29th Street,Robertson & Manning,McCabe Brothers,Bancroft Building / Van Ingen Building / Marble Collegiate Building,New York,Brick and terra cotta,,135,steel,Loft,1896,10,481
+134,476,78 Fifth Avenue,Albert Wagner,,,New York,"Limestone, brick, terra cotta, iron storefront","Tile arches, from FSE",140.5,,Loft,1896,10,482
+135,481,"377-379 Broadway, corner White Street",John T. Williams,,Haggin Building,New York,"Brick, stone, terra cotta",flat tile arch,136.5,steel,Warehouse,1896,11,483
+136,488,708 Broadway,Cleverdon & Putzel,,,New York,Brick and stone,,133,,Loft,1896,10,484
+137,725,"534-536 Washington Street, NW corner Charlton Street",Thomas Jackson,Hugh Getty,James Pyle & Sons I,New York,"Granite base, brick above; heavy piers.",,138,Iron,Warehouse,1896,10,485
+138,742,154-156 West 57th Street,William Tuthill / Henry J. Hardenbergh,Jackson Iron Works,Carnegie Hall III,New York,Brick and terra cotta,Segmental tile arch,224,Steel ,Public,1896,16,486
+139,14,"220 Broadway, corner Ann Street",George Post,Robinson & Wallace (general); J.B. And J.M. Cornell (steel),St. Paul Building,New York,Limestone and brick,,308,Steel beams,Office,1897,26,504
+140,167,"320-322 Broadway, NE corner Pearl Street",John Williams and William Brikmire,,Central National Bank,New York,,Flat tile arches,213,Steel beams,Office,1897,15,505
+141,169,"31 Nassau Street, NW corner Cedar Street",James B. Baker,,National Bank of Commerce,New York,,ER: concrete slab,264,,Office,1897,19,506
+142,171,20-22 Broad Street; 20-20½ New Street,Harding & Gooch,Arthur McMullan & Co.,Commercial Cable Company,New York,,Flat tile arches,304,Steel ,Office,1897,21,507
+143,172,"67-69 William Street, 43 Cedar Street, NW corner",Harding & Gooch; with Thomas Rowe associate architect,McCabe Brothers,Queen Insurance Company,New York,,,195,Steel ,Office,1897,15,508
+144,180,342-350 5th Avenue,Henry Hardenburgh,,Astoria Hotel,New York,"Brick, stone, terra cotta",,213,Steel ,Hotel,1897,16,509
+145,183,568-578 Broadway,George Post,Robinson & Wallace,Havemeyer Building II,New York,Brick and terra cotta,tile arch,150,steel,Loft,1897,12,510
+146,185,"817-819 Broadway, SW corner 12th Street",George Post,"E. Franke (general)., Jackson Iron Works (steel)",Weld Building / Sprague Building,New York,Brick,,196,,Office,1897,14,511
+147,186,"636-638 Broadway, 170-172 Crosby Street",George Post,Fuller Company,Coe Estate Building,New York,,,144,,Loft,1897,10,512
+148,189,160 Bleecker Street,Ernest Flagg,,Mills House #1,New York,Brick,"""concrete floors""",130,,Apartment,1897,10,513
+149,210,"30-36 Broad Street, 64 Exchange Place",James B. Baker,,Johnston Building,New York,Brick and terra cotta,,212,,Office,1897,15,514
+150,241,"1-3 Nassau Street, NW corner Wall Street",Berg & Clark,"Charles Wills (general), Post & McCord (steel)",Gillender Bulding / Manhattan Trust Company,New York,Brick and limestone,Tile arch,273,{Steel beams},Office,1897,19,515
+151,243,9-13 Maiden Lane,Ralph Townsend,,Gill Building / New York Realty Company / Jeweler's Building,New York,Stone and brick,,204,,Office,1897,15,516
+152,245,"1121-1127 Broadway, 9 West 25th Street",Cyrus Eidlitz,Lewison & Just (steel),Townsend Building,New York,Brick and stone,,165.8,Steel ,Office,1897,12,517
+153,256,"224-230 Fourth Avenue, SW corner 19th Street",Richard Berger architect; Edward Lindsey consulting architect,Jackson Iron Works,American Lithograph Building / Gramercy Court,New York,Brick,segmental tile arch,170,,Loft,1897,13,518
+154,266,585-587 Broadway; 156-158 Mercer Street,Cleverdon & Putzel,,Astor Building,New York,brick,,150,steel,Office,1897,12,519
+155,422,100 William Street between John Street and Platt Street,Clinton & Russell,McCabe Brothers,Woodbridge Building,New York,"Brick, stone, terra cotta",,160,,Office,1897,12,520
+156,423,"44-46 West 44th Street, 47-49 West 43rd Street",Rossiter & Wright,Milliken Brothers,Hotel Royalton,New York,"Brick, stone, terra cotta",,128.5,steel,Hotel,1897,12,521
+157,443,"491-493 Broadway, 444 Broome Street",Buchman & Deisler,,,New York,,,165,,Loft,1897,12,522
+158,449,13-17 Dey Street,Cyrus Eidlitz,,Metropolitan Telephone,New York,Brick and terra cotta,,197,,Office,1897,15,523
+159,451,303-307 East 61st Street,Van Antwerp & Brick,,Globe Storage Warehouse,New York,Brick,,132.25,,Warehouse,1897,10,524
+160,452,"192 Church Street, NW corner Duane Street",Clinton & Russell,,Graham Building,New York,"Brick, stone, terra cotta",,160,,Office,1897,12,525
+161,457,"329 Columbus Avenue, NE corner 75th Street",Lamb & Rich,,La Rochelle,New York,"Stone, brick, terra cotta",,140,,Apartment,1897,10.5,526
+162,470,830 Broadway,Cleverdon & Putzel,,,New York,"Brick, stone, terra cotta",,144,,Loft,1897,11,527
+163,471,832-834 Broadway,Ralph Townsend,,,New York,"Brick, stone, terra cotta",,138.5,,Loft,1897,10,528
+164,477,"39-41 West 3rd Street, 48-52 West 4th Street, east side of Wooster Street",Alfred Zucker,,,New York,"Brick, stone, and terra cotta",,155,steel,Loft,1897,11,529
+165,482,260-266 West 36th Street,Albert Wagner,,Baumann Building,New York,"Brick, stone, iron",,145.6,,Store,1897,10,530
+166,486,37-41 East 18th Street,Mortimer Merritt,Samuel Acken & Son,,New York,Brick and stone,,150,,Loft,1897,10,531
+167,492,625 Broadway,David King,,,New York,Brick and stone,,156,,Loft,1897,12,532
+168,495,570-576 West Broadway,Hill & Turner,,Decourcy Building,New York,Brick and terra cotta,,128,,Loft,1897,10,533
+169,543,"1306-1312 Madison Avenue, 26-28 East 93rd Street",G. W. Spitzer,Charles Kivlen,Ashton Hotel,New York,"Brick, stone, terra cotta",terra cotta flat arch,120,steel beams,Hotel,1897,10,534
+170,546,736 Broadway,Louis Korn,,Korn Building,New York,Brick,,150,,Loft,1897,11,535
+171,550,141-143 Fifth Avenue,Robert Maynicke,,,New York,,,138.6,,Loft,1897,10,536
+172,560,584 Broadway,Buchman & Deisler,,,New York,Brick and stone,,165,,Loft,1897,12,537
+173,719,588 Broadway,Buchman & Deisler,,,New York,Brick and stone,Flat tile arch,165,,Loft,1897,12,538
+174,136,290-294 Broadway,Harding & Gooch,Arthur McMullan & Co.(foundations); Milliken Brothers (superstructure),Dun Building,New York,,,223,,Office,1898,15,553
+175,164,666 Greenwich Street,Willoughby Edbrooke and W. Martin Aikin,,Federal Archives / Appraiser’s Warehouse,New York,,Tile arch,120,"w.i. And steel lower portion, steel upper",Warehouse,1898,10,554
+176,170,"52-56 Broadway, 33-39 New Street, 80 Exchange Place",Clinton & Russell,"John Downey (general), J. B. & J. M. Cornell (steel)",Exchange Court,New York,"Granite, limestone, terra cotta walls on beams outboard of spandrel columns",,150,Steel ,Office,1898,12,555
+177,173,71 Broadway,Kimball & Thompson,Marc Eidlitz & Son,Empire Building,New York,,,269.7,Steel ,Office,1898,20,556
+178,174,"1133 Broadway, corner 26th Street",Bruce Price,,St. James Building,New York,,,204,Steel ,Office,1898,16,557
+179,175,"141-145 Broadway, SW corner Liberty Street",Cyrus Eidlitz,Marc Eidlitz & Son,Washington Life Building,New York,,,238,Steel ,Office,1898,19,558
+180,190,"149 Broadway, NW Corner Liberty Street",Ernest Flagg,C. T. Wills,Singer Building I,New York,Brick and stone,,155,Steel beams,Office,1898,11,559
+181,208,"524-528 5th Ave, NW corner 44th Street","McKim, Mead & White",,Sherry's Hotel,New York,,,130,Steel ,Hotel,1898,10,560
+182,211,63-65 Wall Street,Clinton & Russell,New Jersey Steel and Iron Co.,Sampson Building,New York,Brick and terra cotta,,207.5,steel,Office,1898,12,561
+183,240,"110-116 Nassau Street, 45 Ann Street",Clinton & Russell,"Hay Foundry, J.B. & J.M. Cornell (iron), NJ Steel & Iron (steel)",Morton Building,New York,Brick and stone,“modern fireproof”,154,Steel beams and girders,Office,1898,12,562
+184,246,"174 Broadway, 1 Maiden Lane",C. P. H. Gilbert,C. T. Wills,Cushman Building / William Barthman Building,New York,Brick and granite,,160,,Office,1898,12,563
+185,248,32-36 Broadway,Clinton & Russell with A. F. Leicht as associate architect,Standard Structural Co.,Hudson Building,New York,Brick and stone,,227,,Office,1898,16,564
+186,257,"30-32 Elm Street (49 Lafayette Street), SE corner Leonard Street","Babb, Cook & Willard",Charles T. Wills,New York Life Insurance Company Annex / Transportation Board,New York,Brick ,,172,steel,Loft,1898,12,565
+187,261,7-15 Murray Street,Clinton & Russell,,Franklin Building,New York,Brick,,167,Steel beams,Office,1898,12,566
+188,297,155 John Street,George Chappell,,William Matheson Building,New York,Brick,,123,,Office,1898,10,567
+189,431,"12-18 Rivington Street, corner of Christie Street",Ernest Flagg and W. B. Chambrs,,Mills House #2,New York,,,126,Steel ,Apartment,1898,11,568
+190,433,"170 Fifth Avenue, SW corner 22nd Street",Robert Maynicke,J. B. & J. M. Cornell,McCready Building / Sohmer Building,New York,"Brick, stone, terra cotta",,176,,Office,1898,12,569
+191,474,95-97 Liberty Street,Ralph Townsend,,White Building,New York,Brick and stone,,158,,Office,1898,12,570
+192,475,12-16 John Street,Ralph Townsend and James J. Campbell,D. C. Weeks & Son,Anderson Building,New York,Brick,,159,,Office,1898,12,571
+193,491,"455-465 West Street, 55-77 Bethune Street",Cyrus Eidlitz,Marc Eidlitz,Western Electric Sections A-D,New York,brick,,120,steel,Factory,1898,10,572
+194,502,"592-596 Broadway, 124-130 Crosby Street",Buchman & Deisler,,Lyons Building,New York,Brick and stone,Terra cotta,169,“iron and steel”,Loft,1898,12,573
+195,534,"598 Broadway, 132 Crosby",Robert Maynicke,,,New York,Brick and terra cotta,,170,,Loft,1898,12,574
+196,535,"530 Broadway, NE corner Spring Street",Brunner & Tryon,,,New York,Brick and stone,,150,,Loft,1898,12,575
+197,538,"13-18 State Street, SE corner Pearl Street",Clinton & Russell,George A. Fuller Company,Chesebrough Building,New York,"Limestone, brick, and terra cotta",,190,,Office,1898,15,576
+198,573,580 Broadway,Buchman & Deisler,,,New York,Brick and stone,,165,,Loft,1898,12,577
+199,574,"346 Broadway, SE corner Leonard Street","McKim, Mead & White",,New York Life II,New York,"Brick, marble, terra cotta",,188,steel,Office,1898,12,578
+200,584,"135 Fifth Avenue, NE corner 20th Street",David King,,,New York,Brick and stone,,125.5,steel,Loft,1898,10,579
+201,588,"101 West 80th Street, NW corner Columbus Avenue",Henry Corn,,The Warwick Arms,New York,"Brick, terra cotta, limestone",cinder concrete,112,steel beams,Apartment,1898,11,580
+202,597,"142 Fifth Ave, 3-5 West 19th Street",Robert Maynicke,,,New York,Brick and stone,tile arch,134,steel,Loft,1898,10,581
+203,602,"513-515 Madison Ave, NE corner 53rd Street",Hill & Turner,,,New York,Brick and stone,,118.5,,Apartment,1898,10,582
+204,608,298 Broadway,"McKim, Mead & White",M. Reid & Company,Chanler Building,New York,Brick,,123.7,,Loft,1898,10,583
+205,672,54-58 West 33rd Street,Henry Hardenburgh,,Hotel Martinique I,New York,Brick and stone,,198.33,steel,Hotel,1898,16,584
+206,717,43-47 West 32nd Street,Ralph Townsend,,Hotel Pierrepont / Hotel Strand / Hotel Stanford,New York,"Brick, stone, terra cotta",tile arch,150.5,steel,Hotel,1898,12,585
+207,15,"13-21 Park Row, 13 Ann Street",R. H. Robertson,,Park Row Building,New York,Brick,Tile arch,321,Steel beams,Office,1899,28,602
+208,176,65-69 Bleecker Street,Louis Sullivan with Lyndon P. Smith,Lyndon Smith,Bayard Building / Condict Building,New York,"Terra cotta front, brick back",,162,,Loft,1899,12,603
+209,191,85-89 Liberty Street,Ernest Flagg,,Bourne Building / Singer Building II,New York,Brick,,197,,Office,1899,14,604
+210,235,116-120 West 34th Street,Ralph Townsend,,Herald Square Hotel,New York,Brick and stone,,149.25,,Hotel,1899,12,605
+211,242,"302 Broadway, SE corner Duane Street",George Post,"Tidewater Building Co. (general), Pencoyd Iron Works (steel)",Vincent Building,New York,Brick and limestone,,205,Steel ,Office,1899,16,606
+212,247,"84 Broadway, 3-7 Wall Street, 1 New Street",William Wheeler Smith,,,New York,Limestone and brick,,130,,Office,1899,10,607
+213,289,24-26 Broadway,Kimball & Thompson,"C. O. Brown (general), Post & McCord (steel)",Standard Oil Building II,New York,,,280,,Office,1899,15,608
+214,568,"5-13 Elm Street, 54-58 Duane Street",Albert Wagner,"McCabe Brothers (general), Hay Foundry and Iron Works (steel)",Jones Building,New York,Brick and stone,Rapp floor,135,steel,Loft,1899,10,609
+215,583,"145-147 Fifth Avenue, SE corner 21st Street",H. Edwards Ficken,George Vassar’s Son & Co.,,New York,Brick,flat tile arch,163,Stel,Office,1899,12,610
+216,598,296 Broadway,Jordan & Giller,,,New York,Brick,,124.5,,Loft,1899,10,611
+217,629,"396-398 Broadway, SE corner Walker Street",William Birkmire,,Commercial Building,New York,Brick and stone,,126,steel,Office,1899,10,612
+218,634,"413 Washington Street, 74-76 Laight Street",Thomas Jackson,Hugh Getty,,New York,Brick,"""fieproof"" [terra cotta arches]",117,"""steel frame with iron columns""",Warehouse,1899,10,613
+219,720,244 Fifth Avenue,Robert Maynicke,,Connick,New York,"Brick, supported on lattice girders.",,149,,Loft,1899,11,614
+220,132,520-522 Broadway,Buchman & Fox,,Savoy Trust Company,New York,Brick,,140.9,,Office,1900,11,623
+221,135,555 Broadway,William Dilthey,,Rouss Building II,New York,Granite and iron,,150,,Office,1900,11,624
+222,137,"2022-2030 Broadway, SE corner of 70th Street",Robert Maynicke,T. J. Riley,The Ormonde,New York,Brick,"""fireproof""",121,,Apartment,1900,10,625
+223,177,"277 Broadway, NW corner Chambers Street",Cass Gilbert,George A. Fuller Company,Broadway Chambers Building,New York,Brick and terra cotta,Flat tile arches,235,Steel ,Office,1900,18,626
+224,244,"135-137 Broadway, corner of Cedar Street",Bruce Price,George Fuller,North American Trust Company / Title Insurance Company / International Banking and Trust Co.,New York,Brick,,188,Steel ,Office,1900,14,627
+225,253,"395-399 Broadway, 61-69 Walker Street",Robert Maynicke,Hecla Ironworks (steel),,New York,Brick,,149,,Office,1900,15,628
+226,265,"729-731 Broadway, NW corner Waverly Place",,,,New York,,,150,,Loft,1900,12,629
+227,278,105 East 15th Street,Gilbert A. Schellinger,,The Swannanoa,New York,Brick,,100,,Apartment,1900,10,630
+228,291,128 Broadway,Clinton & Russell,"Marc Eidlitz & Son (general), Post & McCord (steel)",American Exchange National Bank Building,New York,Brick and stone,,232,"Steel, paired floor beams cantilever past columns to carry spandrels consisting of 2Cs",Office,1900,16,631
+229,448,"632-634 Broadway, 166 Crosby Street",Robert Maynicke,,,New York,"Brick, stone, terra cotta",terra cotta and brick arches,170,steel,Loft,1900,12,632
+230,569,"100 West 80th Street, SW corner Columbus Avenue",Buchman and Deisler ,Imperial Construction Company,The Orleans,New York,Brick and stone,tile arch floors,119.5,,Apartment,1900,10.5,633
+231,591,"539-545 Fifth Avenue, 2-4 East 45th Street",J. O’Rourke & Sons,,The Lorraine,New York,Brick,,152,,Apartment,1900,13,634
+232,592,103 East 125th Street,C. P. H. Gilbert,,Hamilton Building,New York,Brick,,149.75,,Warehouse,1900,12,635
+233,606,"85 Fifth Ave, NE corner 16th Street",Louis Korn,, Annin Building / Houghton Mifflin Building,New York,"Limestone, brick, and terra cotta",,140.5,,Loft,1900,10,636
+234,609,"239-245 Church Street, 66-70 Leonard Street",Henry Hardenburgh,George Fuller Company,Importers Building,New York,"Brick, stone and terra cotta",,145,steel,Loft,1900,12,637
+235,633,"97-99 University Place, 34 East 12th Street",William Hazlett,,Textile Workers Union of America,New York,"Brick, limestone and terra cotta",,130,steel,Loft,1900,10,638
+236,636,"106-110 Central Park West, SW corner 71st Street",Alonzo B. Kight,Alonzo B. Kight,The Barnard,New York,Limestone and brick,,115,,Apartment,1900,10,639
+237,637,512 Seventh Avenue SW corner 38th Street,Barney & Chapman,,Hotel Navarre,New York,"Granite, brick, terra cotta",,124,,Apartment,1900,10,640
+238,640,49-53 West 44th Street,Mulliken & Moeller,,Hotel Iroquois,New York,,,136.8,,Apartment,1900,12,641
+239,642,"326-328 Madison Avenue, SW corner 43rd Street",Henry Hardenburgh,,Hotel Manhattan II,New York,Brick and stone,,200,,Hotel,1900,15,642
+240,651,"74-78 William Street, SE corner Liberty Street",Clinton & Russell,,Bishop Building,New York,"Brick, stone, terra cotta",,162,,Office,1900,12,643
+241,655,"140 Fifth Avenue, SW corner 19th Street",Robert Maynicke,Hecla Ironworks (steel),Corn Exchange Bank,New York,"Brick, stone, terra cotta",,165.5,,Loft,1900,12,644
+242,659,"245 Greene Street, NW corner Washington Place ",John Wolley,,Asch Building,New York,"Brick, stone, terra cotta",Tile arch,135,steel,Loft,1900,10,645
+243,660,31 West 12th Street,John B. Snook & Sons,,The Ardea II,New York,Brick and stone,Flat tile arches,133,Steel ,Apartment,1900,11,646
+244,689,"231-233 Fourth Avenue, SE Corner 19th Street",William Birkmire,,Parker Building,New York,"Brick, stone, terra cotta","flat, side-construction terra cotta",163.75,steel,Loft,1900,12,647
+245,708,34 East 10th Street,Frederick C. Browne,,,New York,Brick,,131,wood,Loft,1900,10,648
+246,718,"122-124 Fifth, 3-7 West 17th, 2 West 18th",Robert Maynicke,,,New York,,,148,,Loft,1900,10,649
+247,722,3-7 West 22nd Street,J. B. Baker,,Spinning Wheel,New York,Brick with terra cotta front facade,,134,,Loft,1900,10,650
+248,721,"320 Central Park West, SW corner 92nd Street",George Keister,,Ardsley Hall,New York,Brick and stone.,,120,,Apartment,1900,10,651
+249,713,"21-24 State Street, 1-3-5 Pearl Street, 2-4-6 Bridge Street
+21-24 state street, 1-3-5 pearl street, 2-4-6 bridge street",Clinton & Russell,"George A. Fuller Co,",Battery Park,New York,,,145.5,,Office,1900,11,652
+250,712,"572-574 Madison Avenue, NW corner 56th Street","Howard, Cauldwell, and Morgan",Andrew J. Robinson Co.,Hotel Essex,New York,"Brick and stone, supported",,154,,Hotel,1900,12,653
+251,711,840 Broadway,Robert Maynicke,Hecla Ironworks for framing,,New York,"Brick, 12"" to 28""",,161,,Loft,1900,12,654
+252,709,51-53 Maiden Lane,Hill & Turner,Erasmus Garnsey (also owner),Jewelers' Court,New York,"12"" - 24"" thick brick and stone",,142.25,,Office,1900,12,655
+253,727,"49-51 Wall Street, 37-39 William Street, SW corner",Clinton & Russell,Thompson & Starrett,Atlantic Building / Atlantic Mutual,New York,Granite and brick,steel,200,,Office,1900,18,656
+254,740,30 West 44th Street,Tracy & Swartout,Marc Eidlitz & Son,Yale Club / Penn Club,New York,"Brick and terra cotta, supported",,146.67,steel,Public,1900,11,657

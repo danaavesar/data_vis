@@ -1,0 +1,56 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 39 106.5" enable-background="new 0 0 39 106.5" xml:space="preserve">
+
+<g>
+	<polygon fill="#FCC57C" points="29,3.6 35,8.2 35,96.2 29,102.7 	"/>
+	<rect x="4" y="3.6" fill="#71535C" width="25.1" height="99"/>
+	<g>
+		<rect id="hi" class="row1" x="13.5" y="5.7" width="4.1" height="6"/>
+		<rect class="row1" x="18.5" y="5.7" width="4.1" height="6"/>
+		<rect class="row1" x="23.5" y="5.7" width="4.1" height="6"/>
+		<rect class="row1" x="8.5" y="5.7" width="4.1" height="6"/>
+	</g>
+	<g>
+		<rect class="row2" x="13.5" y="16.9" width="4.1" height="6"/>
+		<rect class="row2" x="18.5" y="16.9" width="4.1" height="6"/>
+		<rect class="row2" x="23.5" y="16.9" width="4.1" height="6"/>
+		<rect class="row2" x="8.5" y="16.9" width="4.1" height="6"/>
+	</g>
+	<g>
+		<rect class="row3" x="13.5" y="28.1" fill="000000" width="4.1" height="6"/>
+		<rect class="row3" x="18.5" y="28.1" fill="#000000" width="4.1" height="6"/>
+		<rect class="row3" x="23.5" y="28.1" fill="#000000" width="4.1" height="6"/>
+		<rect class="row3" x="8.5" y="28.1" fill="#000000" width="4.1" height="6"/>
+	</g>
+	<g>
+		<rect class="row4" x="13.5" y="39.3" fill="000000" width="4.1" height="6"/>
+		<rect class="row4" x="18.5" y="39.3" fill="#000000" width="4.1" height="6"/>
+		<rect class="row4" x="23.5" y="39.3" fill="#000000" width="4.1" height="6"/>
+		<rect class="row4" x="8.5" y="39.3" fill="#000000" width="4.1" height="6"/>
+	</g>
+	<g>
+		<rect class="row5" x="13.5" y="50.5" fill="#000000" width="4.1" height="6"/>
+		<rect class="row5" x="18.5" y="50.5" fill="#000000" width="4.1" height="6"/>
+		<rect class="row5" x="23.5" y="50.5" fill="#000000" width="4.1" height="6"/>
+		<rect class="row5" x="8.5" y="50.5" fill="#000000" width="4.1" height="6"/>
+	</g>
+	<g>
+		<rect class="row6" x="13.5" y="61.6" fill="#000000" width="4.1" height="6"/>
+		<rect class="row6" x="18.5" y="61.6" fill="#000000" width="4.1" height="6"/>
+		<rect class="row6" x="23.5" y="61.6" fill="#000000" width="4.1" height="6"/>
+		<rect class="row6" x="8.5" y="61.6" fill="#000000" width="4.1" height="6"/>
+	</g>
+	<g>
+		<rect class="row7" x="13.5" y="72.8" fill="#000000" width="4.1" height="6"/>
+		<rect class="row7" x="18.5" y="72.8" fill="#000000" width="4.1" height="6"/>
+		<rect class="row7" x="23.5" y="72.8" fill="#000000" width="4.1" height="6"/>
+		<rect class="row7" x="8.5" y="72.8" fill="#000000" width="4.1" height="6"/>
+	</g>
+	<g>
+		<rect class="row8" x="13.5" y="84" fill="#000000" width="4.1" height="6"/>
+		<rect class="row8" x="18.5" y="84" fill="#000000" width="4.1" height="6"/>
+		<rect class="row8" x="23.5" y="84" fill="#000000" width="4.1" height="6"/>
+		<rect class="row8" x="8.5" y="84" fill="#000000" width="4.1" height="6"/>
+	</g>
+</g>
+</svg>
