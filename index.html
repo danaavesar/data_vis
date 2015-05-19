@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="libraries/Control.Geocoder.css" />
 	
     <!-- my scripts -->
-    <script src="leaflet.js" type="text/javascript"></script> 
+    <script src="leaflet_stuff.js" type="text/javascript"></script> 
     <script src="sketch.js" type="text/javascript"></script> 
 
     <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
@@ -53,7 +53,7 @@
         font-family: 'Libre Baskerville', serif;
       }
       .ui-slider-horizontal .ui-state-default {
-        background: url("handle.png") no-repeat scroll 50% 50%;
+        background: url("images/handle.png") no-repeat scroll 50% 50%;
         border: none;
         height: 2em;
         width:1.5em;
@@ -63,7 +63,7 @@
         border: none;
       }
       .ui-slider-vertical .ui-state-default{
-        background: url("handle2.png") no-repeat ;
+        background: url("images/handle2.png") no-repeat ;
         border: none;
         background-size: 30px;
         background-position: center;
@@ -155,7 +155,7 @@
   </head>
 
   <body >
-  <img id="title" src="skyscraper_title.png"/>
+  <img id="title" src="images/skyscraper_title.svg"/>
  
    <div id="map" style="width: 100%; height: 100%"></div>
    
@@ -167,14 +167,16 @@
     <div id="ticks"></div>
     <h2 id="floors" class="label"> Floors: </h2>
     <div id="floor_selection_container"> 
-      <object id="floor_icon" type="image/svg+xml" data="floors_icon.svg" ></object>
+      <object id="floor_icon" type="image/svg+xml" data="images/floors_icon.svg" ></object>
       <div id="slider2" ></div>
       <div id="max"></div>
     </div>
      <h2 id="use" class="label"> Use: </h2>
-     <img class="icon" src="apartment_icon.svg"/>
-     <img class="icon" src="hotel_icon.svg"/>
-     <img class="icon" src="office_icon.svg"/>
+     <img id="apt_icon"class="icon" src="images/apartment_icon.svg"/>
+     <img id="hotel_icon" class="icon" src="images/hotel_icon.svg"/>
+     <img id="office_icon" class="icon" src="images/office_icon.svg"/>
+     <img id="manuf_icon" class="icon" src="images/manufacturing_icon.svg"/>
+     <img id="other_icon" class="icon" src="images/other_icon.svg"/>
 
 
 

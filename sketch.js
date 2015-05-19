@@ -6,7 +6,14 @@
 var buildingArray = [];
 var images = new Array();
 var pp;
- 
+var yearSelection;
+var floorSelection = 28;
+var useSelection = [];
+var hotelIcons = [];
+var apartmentIcons =[];
+var officeIcons = [];
+var manufacturingIcons =[];
+var otherIcons = [];
   
 $(function() {
 	for(var i=2; i<254; i++){
@@ -46,16 +53,8 @@ $(function() {
       max: 1900,
       slide: function( event, ui ) {
         $( "#amount" ).html( "year:  " + ui.value );
-        year = ui.value;
-        for(var i=1; i<buildingArray.length; i++){
-	        if(buildingArray[i].marker != null){	
-	        	if(buildingArray[i].year <= ui.value){
-	        		buildingArray[i].marker.setOpacity(1);
-	        	}else{
-	        		buildingArray[i].marker.setOpacity(0);
-	        	}
-	    	}
-	    }
+        yearSelection = ui.value;
+        updateMarkers();
       }
    });
 
@@ -85,19 +84,13 @@ $(function() {
 	                of: ui.handle,
 	                
 	            });
-	        };       
+	        }; 
+
         // wait for the ui.handle to set its position
         	setTimeout(delay, 5);
-
-         for(var i=1; i<buildingArray.length; i++){
-	        if(buildingArray[i].marker != null){	
-	        	 if(buildingArray[i].floors <= ui.value){
-	        		buildingArray[i].marker.setOpacity(1);
-	        	 }else{
-	        	 	buildingArray[i].marker.setOpacity(0);
-	        	 }
-	    	}
-	    }
+        	floorSelection = ui.value;
+        	updateMarkers();
+       
     }
    });
 
@@ -110,10 +103,56 @@ $(function() {
 	    of: $('#slider2 a'),
 	    
 	});
+
+	// $(".icon").click(function(){
+	// 	src = 
+	// 	$(this).attr("src",src);
+	// })
+		
+	$("#apt_icon").click(function(){
+		useSelection.push("Apartment");
+		updateMarkers();
+	})
+	$("#hotel_icon").click(function(){
+		useSelection.push("Hotel");
+	})
+	//if toggled
+	$("#office_icon").click(function(){
+		useSelection.push("Office");
+	})
+	$("#manuf_icon").click(function(){
+		useSelection.push("Factory");
+		useSelection.push("Warehouse");
+		useSelection.push("Loft");
+	})
+	$("#other_icon").click(function(){
+		useSelection.push("Public");
+		useSelection.push("Store");
+	})
+
+	console.log($.inArray("Public", useSelection));
 });
 
 
+function updateMarkers(){
+	for (var i = 1; i < buildingArray.length; i++) {
+		
+		if(buildingArray[i].marker != null){
+					if(buildingArray[i].year <= yearSelection && buildingArray[i].floors <= floorSelection && $.inArray(buildingArray[i].use, useSelection) ){
 
+						buildingArray[i].marker.setOpacity(1);
+						console.log(buildingArray[i].floors);
+						console.log(buildingArray[i].address);
+					}else{
+						buildingArray[i].marker.setOpacity(0);
+						
+					}
+			
+			
+
+		}
+	};
+}
 
 function Building(data, img){
 	var address = data[2];
@@ -126,6 +165,7 @@ function Building(data, img){
 	var marker;
 	var image = img;
 	var floors = data[13];
+	var icon;
 
 
 	return {
@@ -136,7 +176,8 @@ function Building(data, img){
 		floors: floors,
 		show: show,
 		marker: marker,
-		image: image
+		image: image,
+		icon: icon
 	}
 }
 
