@@ -58,28 +58,103 @@ function leaflet() {
 
 		for(var i=1; i<ary.length; i++){
 				if(ary[i].use == "Office"){ //office
-					if(ary[i].floors <= i+4 && ary[i].floors > i){
-						ary[i].icon = officeIcons[n];
-					}		
+					if(ary[i].floors <= 10){
+						ary[i].icon = officeIcons[5];
+					}	
+					if(ary[i].floors <= 14 && ary[i].floors >10){
+						ary[i].icon = officeIcons[4];
+					}	
+					if(ary[i].floors <= 18 && ary[i].floors >14){
+						ary[i].icon = officeIcons[3];
+					}
+					if(ary[i].floors <= 22 && ary[i].floors >18){
+						ary[i].icon = officeIcons[2];
+					}
+					if(ary[i].floors <= 26 && ary[i].floors >22){
+						ary[i].icon = officeIcons[1];
+					}
+					if(ary[i].floors <= 30 && ary[i].floors >26){
+						ary[i].icon = officeIcons[0];
+					}
 				}
 				if(ary[i].use == "Apartment" ){ //residential
-					if(ary[i].floors <= i+4 && ary[i].floors > i){
-						ary[i].icon = apartmentIcons[n];
+					if(ary[i].floors <= 10){
+						ary[i].icon = apartmentIcons[5];
+					}	
+					if(ary[i].floors <= 14 && ary[i].floors >10){
+						ary[i].icon = apartmentIcons[4];
+					}	
+					if(ary[i].floors <= 18 && ary[i].floors >14){
+						ary[i].icon = apartmentIcons[3];
+					}
+					if(ary[i].floors <= 22 && ary[i].floors >18){
+						ary[i].icon = apartmentIcons[2];
+					}
+					if(ary[i].floors <= 26 && ary[i].floors >22){
+						ary[i].icon = apartmentIcons[1];
+					}
+					if(ary[i].floors <= 30 && ary[i].floors >26){
+						ary[i].icon = apartmentIcons[0];
 					}	
 				}
 				if(ary[i].use == "Hotel"){
-					if(ary[i].floors <= i+4 && ary[i].floors > i){
-						ary[i].icon = hotelIcons[n];
+					if(ary[i].floors <= 10){
+						ary[i].icon = hotelIcons[5];
+					}	
+					if(ary[i].floors <= 14 && ary[i].floors >10){
+						ary[i].icon = hotelIcons[4];
+					}	
+					if(ary[i].floors <= 18 && ary[i].floors >14){
+						ary[i].icon = hotelIcons[3];
 					}
+					if(ary[i].floors <= 22 && ary[i].floors >18){
+						ary[i].icon = hotelIcons[2];
+					}
+					if(ary[i].floors <= 26 && ary[i].floors >22){
+						ary[i].icon = hotelIcons[1];
+					}
+					if(ary[i].floors <= 30 && ary[i].floors >26){
+						ary[i].icon = hotelIcons[0];
+					}	
 				}
 				if(ary[i].use == "Factory" || ary[i].use == "Warehouse" || ary[i].use == "Loft" ){ //manufacturing
-					if(ary[i].floors <= i+4 && ary[i].floors > i){
-						ary[i].icon = manufacturingIcons[n];
+					if(ary[i].floors <= 10){
+						ary[i].icon = manufacturingIcons[5];
+					}	
+					if(ary[i].floors <= 14 && ary[i].floors >10){
+						ary[i].icon = manufacturingIcons[4];
+					}	
+					if(ary[i].floors <= 18 && ary[i].floors >14){
+						ary[i].icon = manufacturingIcons[3];
+					}
+					if(ary[i].floors <= 22 && ary[i].floors >18){
+						ary[i].icon = manufacturingIcons[2];
+					}
+					if(ary[i].floors <= 26 && ary[i].floors >22){
+						ary[i].icon = manufacturingIcons[1];
+					}
+					if(ary[i].floors <= 30 && ary[i].floors >26){
+						ary[i].icon = manufacturingIcons[0];
 					}
 				}
 				if(ary[i].use == "Public" || ary[i].use == "Store" ){ //other
-					if(ary[i].floors <= i+4 && ary[i].floors > i){
-						ary[i].icon = otherIcons[n];
+					if(ary[i].floors <= 10){
+						ary[i].icon = otherIcons[5];
+					}	
+					if(ary[i].floors <= 14 && ary[i].floors >10){
+						ary[i].icon = otherIcons[4];
+					}	
+					if(ary[i].floors <= 18 && ary[i].floors >14){
+						ary[i].icon = otherIcons[3];
+					}
+					if(ary[i].floors <= 22 && ary[i].floors >18){
+						ary[i].icon = otherIcons[2];
+					}
+					if(ary[i].floors <= 26 && ary[i].floors >22){
+						ary[i].icon = otherIcons[1];
+					}
+					if(ary[i].floors <= 30 && ary[i].floors >26){
+						ary[i].icon = otherIcons[0];
 					}
 				}
 			
